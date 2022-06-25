@@ -12,7 +12,7 @@ accurate return forecasts combined with the ability to act on these forecasts
 In this project we have attempted to develop the code and results based on the
 formulaic alphas mentioned in the paper 101 Formulaic Alphas (https://arxiv.org/ftp/arxiv/papers/1601/1601.00991.pdf)
 
-The config file can be changed appropriately to run the backest on different duration of start and end date and different assed universe
+The config file can be changed appropriately to run the backest on different duration of start and end date and different asset universe
 
 Install necessary libraries
 ```
