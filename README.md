@@ -12,6 +12,10 @@ accurate return forecasts combined with the ability to act on these forecasts
 In this project we have attempted to develop the code and results based on the
 formulaic alphas mentioned in the paper 101 Formulaic Alphas (https://arxiv.org/ftp/arxiv/papers/1601/1601.00991.pdf)
 
+Install necessary libraries
+```
+pip3 install -r requirements.txt
+```
 
 To generate the backtest results modify the appropriate alpha call in formulaic_alphas.py and run the command
 ```
